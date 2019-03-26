@@ -2,7 +2,7 @@ import * as React from 'react';
 
 export const App: React.StatelessComponent<{}> = () => {
     return(
-        <div class="grid-container">
+        <div className="grid-container">
             <div>1</div>
             <div>2</div>
             <div>3</div>  
